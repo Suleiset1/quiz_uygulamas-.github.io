@@ -1,0 +1,41 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+  background-color: #c1f4f0;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+#question-container {
+  font-size: 18px;
+  margin-bottom: 50px;
+}
+
+#options-container {
+  text-align: left;
+}
+
+#options-container label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#submit-btn {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#result-container {
+  margin-top: 10px;
+}
